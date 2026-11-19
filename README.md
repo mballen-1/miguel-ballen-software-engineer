@@ -6,6 +6,8 @@ Portfolio URL: [mballen-1.github.io/miguel-ballen-software-engineer](https://mba
 
 GitHub profile: [mballen-1](https://github.com/mballen-1)
 
+![Ozzy](220px-BlackSabbath19720012200.sized.jpg)
+
 ## Stack
 Buildless HTML, CSS, JavaScript and animated SVG. GitHub Pages serves the files directly; Jekyll is disabled with `.nojekyll`. The original Jekyll scaffold remains in Git history and in the repository for reference.
 
