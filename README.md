@@ -2,7 +2,7 @@
 
 Professional portfolio with selected production work, career history, public learning projects, credentials, and a downloadable CV.
 
-Portfolio URL: [mballen-1.github.io/temporalvv](https://mballen-1.github.io/temporalvv/)
+Portfolio URL: [mballen-1.github.io/miguel-ballen-software-engineer](https://mballen-1.github.io/miguel-ballen-software-engineer/)
 
 GitHub profile: [mballen-1](https://github.com/mballen-1)
 
@@ -13,7 +13,7 @@ Buildless HTML, CSS, JavaScript and animated SVG. GitHub Pages serves the files 
 Run `python3 -m http.server 8000` in the repository, then open http://localhost:8000/.
 
 ## Publish
-Push the reviewed source to the branch configured under **Settings → Pages** (currently expected to be `master`, repository root). All asset paths are relative, so the site works under `/temporalvv/`.
+Push the reviewed source to the branch configured under **Settings → Pages** (currently expected to be `master`, repository root). All asset paths are relative, so the site works under `/miguel-ballen-software-engineer/`.
 
 ## Maintain
 - `index.html`: copy, links, career history and SVG illustration.
